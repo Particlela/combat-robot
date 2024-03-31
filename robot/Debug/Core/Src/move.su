@@ -1,0 +1,8 @@
+../Core/Src/move.c:26:6:Move_Left	16	static
+../Core/Src/move.c:40:6:Move_Right	16	static
+../Core/Src/move.c:55:6:Move_Twin_Wheels	16	static
+../Core/Src/move.c:64:7:Read_Rotational_Speed	24	static
+../Core/Src/move.c:99:6:Motor_Control	16	static
+../Core/Src/move.c:111:6:Engine_Init	8	static
+../Core/Src/move.c:129:6:Motor_Init	8	static
+../Core/Src/move.c:138:6:GraySensor_Init	4	static
