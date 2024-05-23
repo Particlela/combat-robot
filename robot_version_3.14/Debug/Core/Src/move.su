@@ -1,0 +1,6 @@
+../Core/Src/move.c:38:6:Move_Left	16	static
+../Core/Src/move.c:52:6:Move_Right	16	static
+../Core/Src/move.c:67:6:Move_Twin_Wheels	16	static
+../Core/Src/move.c:77:6:Engine_Init	8	static
+../Core/Src/move.c:86:6:GraySensor_Init	4	static
+../Core/Src/move.c:95:6:Robotic_Arm_Move	16	static
